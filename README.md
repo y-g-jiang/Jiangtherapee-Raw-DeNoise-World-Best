@@ -4,9 +4,13 @@
 
 非常感谢大家支持我更多的训练以及后续更震撼的开源项目：
 
-（希望下面二维码折叠，并给一个小二维码的图标和展开提示）
+<details>
+<summary><img width="24" height="24" alt="二维码图标" src="https://github.com/user-attachments/assets/0c3a099a-ee9a-43b3-9334-dbdf55dadd3d" /> 支持作者，点击展开二维码</summary>
 
-<img width="518" height="575" alt="image" src="https://github.com/user-attachments/assets/0c3a099a-ee9a-43b3-9334-dbdf55dadd3d" />
+<p align="center">
+  <img width="518" height="575" alt="支持作者二维码" src="https://github.com/user-attachments/assets/0c3a099a-ee9a-43b3-9334-dbdf55dadd3d" />
+</p>
+</details>
 
 大家好，我是姜尧耕。今天我向大家介绍我完全开源的、完全超越DXO以及ps自带降噪的降噪网络JRDN，而且提供了极度易用的软件前端。这个视频我会分成两块，第一块我来介绍我做的三点工作以及在同时做一些对比，第二块来和大家讲用法。
 
